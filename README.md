@@ -1,16 +1,27 @@
-## Hi there 👋
 
-<!--
-**GibiGhost/GibiGhost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<img src="https://i.pinimg.com/736x/c0/e0/5b/c0e05b6249096c56b3d4b5271de4bb90.jpg" max-width= "100%">
+<!--https://github.com/kittinan/spotify-github-profile -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👻 Boo, I'm GibiGhost. A swe in this realm. 
+Anonymous by choice. Here to experiment, learn, and grow. <br />
+Haunting the codebase one commit at a time.
+
+<br />
+
+### 👩🏻‍💻 Current focus 
+- Google Cloud Developer Certfication
+- Personal Website
+
+### ✨ Skills
+- HTML, CSS, JS, React
+- Swift, iOS Native
+- PostgreSQL, Node
+- Python, Go
+
+### 🌙 Fun Facts
+- Love Asian food
+- Have more than 100 books
+- Weeb
+- Metal calms me down
+- Always a little ghostly.
