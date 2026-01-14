@@ -11,4 +11,4 @@ Haunting the codebase one commit at a time.
 | Google Cloud Developer Certfication  | HTML, CSS, JS, React  | Love Asian food           |
 | Personal Website                     | Swift, iOS Native     | Have more than 100 books  |
 | Leetcode Practice                    | PostgreSQL, Node      | Weeb                      |
-| Cybersecurity                        | Python, Go            | Always a little ghostly   |
+|                                      | Python, Go            | Always a little ghostly   |
