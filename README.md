@@ -1,7 +1,7 @@
 <!--https://github.com/kittinan/spotify-github-profile -->
 
 ### Boo, I'm GibiGhost. A swe in this realm. 
-Anonymous by choice. Here to experiment, learn, and grow. <br />
+Anonymous (mostly) by choice. Here to experiment, learn, and grow. <br />
 Haunting the codebase one commit at a time.
 
 <br/>
